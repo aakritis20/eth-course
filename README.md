@@ -3,7 +3,9 @@ Error Handling
 In this project, I'll just go over the three primary functions that Solidity uses to handle errors. They are as follows:
 
 require(): Before the actual code is executed, the require() method is used to verify and check the condition.
+
 assert(): This function is meant to ensure that conditions are met; if they aren't, the execution is stopped.
+
 Revert(): The function used to handle mistakes and undo state modifications. Using it with or without an error message is possible
 
 # eth-course
