@@ -1,4 +1,4 @@
-PROJECT
+# PROJECT
 Error Handling
 In this project, I'll just go over the three primary functions that Solidity uses to handle errors. They are as follows:
 
